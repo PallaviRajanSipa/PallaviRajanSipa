@@ -1,5 +1,7 @@
 ### Hi there 👋
-test
+My name is Pallavi and I'm a graduate student at SIPA. I specialize corporate sustainability and ESG and I hope to use python to better leverage data in my work. 
+
+😄 Pronouns: she/her
 <!--
 **PallaviRajanSipa/PallaviRajanSipa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
